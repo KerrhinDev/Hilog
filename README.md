@@ -86,6 +86,7 @@ L'implementazione del sistema Hi-log ottimizzato mira a:
 
 © 2025 Hi-log S.r.l. Tutti i diritti riservati.
 © 2025 Virtual-Dev. Tutti i diritti riservati.
+
 Questa documentazione e il sistema Hi-log ottimizzato descritto al suo interno sono protetti dalle leggi sul copyright e sulla proprietà intellettuale. Nessuna parte di questa documentazione può essere riprodotta, distribuita, trasmessa, memorizzata in un sistema di recupero o tradotta in qualsiasi lingua umana o informatica, in qualsiasi forma o con qualsiasi mezzo, elettronico, meccanico, magnetico, manuale o altro, senza l'esplicito consenso scritto di Hi-log S.r.l.
 
 ### Licenza d'Uso
