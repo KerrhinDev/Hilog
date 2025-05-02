@@ -80,4 +80,27 @@ L'implementazione del sistema Hi-log ottimizzato mira a:
 - **Server Applicativi**: 8+ core CPU, 32+ GB RAM, SSD
 - **Server Cache**: 4+ core CPU, 16+ GB RAM, SSD
 
+## Informazioni sul Copyright
+
+### Proprietà Intellettuale
+
+© 2025 Hi-log S.r.l. Tutti i diritti riservati.
 © 2025 Virtual-Dev. Tutti i diritti riservati.
+Questa documentazione e il sistema Hi-log ottimizzato descritto al suo interno sono protetti dalle leggi sul copyright e sulla proprietà intellettuale. Nessuna parte di questa documentazione può essere riprodotta, distribuita, trasmessa, memorizzata in un sistema di recupero o tradotta in qualsiasi lingua umana o informatica, in qualsiasi forma o con qualsiasi mezzo, elettronico, meccanico, magnetico, manuale o altro, senza l'esplicito consenso scritto di Hi-log S.r.l.
+
+### Licenza d'Uso
+
+Questa documentazione è fornita esclusivamente per l'uso interno di Hi-log S.r.l. e dei suoi partner autorizzati. L'accesso a questa documentazione è concesso in base a un accordo di licenza che ne regola l'uso. Qualsiasi utilizzo non autorizzato è severamente vietato.
+
+### Marchi Commerciali
+
+Hi-log è un marchio registrato di Hi-log S.r.l. Tutti gli altri marchi citati in questa documentazione sono di proprietà dei rispettivi titolari.
+
+### Limitazioni di Responsabilità
+
+Questa documentazione è fornita "così com'è" senza garanzie di alcun tipo, esplicite o implicite. Hi-log S.r.l. non si assume alcuna responsabilità per eventuali errori o omissioni in questa documentazione o per eventuali danni derivanti dall'uso delle informazioni in essa contenute.
+
+### Riservatezza
+
+Questa documentazione contiene informazioni riservate e proprietarie di Hi-log S.r.l. La divulgazione, la copia o la distribuzione di queste informazioni a terzi non autorizzati è severamente vietata e può comportare azioni legali.
+
