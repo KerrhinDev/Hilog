@@ -80,11 +80,4 @@ L'implementazione del sistema Hi-log ottimizzato mira a:
 - **Server Applicativi**: 8+ core CPU, 32+ GB RAM, SSD
 - **Server Cache**: 4+ core CPU, 16+ GB RAM, SSD
 
-## Supporto
-
-Per assistenza durante l'implementazione del sistema Hi-log ottimizzato, contattare:
-
-
----
-
 © 2025 Virtual-Dev. Tutti i diritti riservati.
