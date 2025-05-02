@@ -75,6 +75,14 @@ L'implementazione del sistema Hi-log ottimizzato mira a:
 - Git
 
 ### Hardware Consigliato
+Deluxhost consigliato ( https://deluxhost.net/ )
+Dedicated Servers - AMD EPYC 7551P €104.99 EUR |
+Operating System: Linux | €0.00 EUR |
+RAM: 128GB DDR4 RegECC €15.99 EUR |
+NIC: 10 Gbps (Fair Use) €50.00 EUR |
+Drive #0: 2TB NVMe SSD €20.00 EUR |
+Drive #1: 2TB NVMe SSD €20.00 EUR |
+Additional IP: 1 IP (Included) €0.00 EUR | 
 
 - **Server Database**: 16+ core CPU, 64+ GB RAM, SSD in configurazione RAID
 - **Server Applicativi**: 8+ core CPU, 32+ GB RAM, SSD
